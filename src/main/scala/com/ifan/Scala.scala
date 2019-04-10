@@ -147,9 +147,6 @@ object Scala {
 
 
 
-
-
-
   }
 
   def add(x:Int,y:Int):Int={
