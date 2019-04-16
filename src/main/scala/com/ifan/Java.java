@@ -19,6 +19,7 @@ public class Java {
         array[0] = 10;
         array[1] = 11;
 
+
         for (int x : array)
         {
             System.out.println(x);
@@ -30,6 +31,11 @@ public class Java {
         int[] array1 = {1,2,3,4,5};
         System.out.println(array1.length);
 
+
     }
+
+
+
+
 
 }

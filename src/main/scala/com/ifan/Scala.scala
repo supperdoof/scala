@@ -139,10 +139,28 @@ object Scala {
 
     //Map
     println("===========Map==========")
-    val m = Map(1 -> "David", 9 -> "Elwood")
+    var m = Map(1 -> "David", 9 -> "Elwood")
     println(m(1))
-    m + (10 -> "Teddy")
+    m += (10 -> "Teddy")
     m - 1
+
+    //Hash
+    println("===========Hash==========")
+    var nums:Map[Int,Int] = Map()
+    nums += (100 -> 100)
+    println(nums)
+    println(nums.get(100).get)
+
+    //Array
+    println("===========Array==========")
+    val arr = new Array[Int](2)
+    val aaa = Array(10,20)
+    for( a <- 0 until aaa.length)
+    {
+        println(a)
+    }
+
+
 
 
 
