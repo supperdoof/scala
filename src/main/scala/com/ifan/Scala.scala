@@ -160,6 +160,12 @@ object Scala {
         println(a)
     }
 
+    for( a <- arr)
+    {
+      println(a)
+
+    }
+
 
 
 
