@@ -6,14 +6,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/com/ifan/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/ifan/Java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/com/ifan/Scala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/ifan/Scala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$display$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$display$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$main$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$main$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$main$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$main$9$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifan/Scala$$anonfun$main$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifan/Scala$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifan/Scala$.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +32,8 @@
       <file leaf-file-name="Scala.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/ifan/Scala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="156" column="26" lean-forward="true" selection-start-line="156" selection-start-column="26" selection-end-line="156" selection-end-column="26" />
+            <state relative-caret-position="437">
+              <caret line="161" lean-forward="true" selection-start-line="161" selection-end-line="161" />
             </state>
           </provider>
         </entry>
@@ -49,8 +41,8 @@
       <file leaf-file-name="Java.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/ifan/Java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            <state relative-caret-position="540">
+              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -95,10 +87,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="-97" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -108,6 +98,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +137,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -168,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Java">
+  <component name="RunManager" selected="Application.Scala">
     <configuration name="Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ifan.Java" />
       <module name="scala" />
@@ -238,8 +228,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java" />
         <item itemvalue="Application.Scala" />
+        <item itemvalue="Application.Java" />
       </list>
     </recent_temporary>
   </component>
@@ -269,12 +259,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5021299" side_tool="true" weight="0.40099502" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32960597" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4978701" visible="true" weight="0.40099502" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978701" weight="0.40099502" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49713877" weight="0.24975124" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49851632" visible="true" weight="0.1485623" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49851632" visible="true" weight="0.1517572" />
       <window_info anchor="right" id="Aone" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -294,6 +284,48 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/ifan/Scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="26" selection-start-line="156" selection-start-column="26" selection-end-line="156" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/ifan/Java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/ifan/Scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="26" lean-forward="true" selection-start-line="156" selection-start-column="26" selection-end-line="156" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/ifan/Java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="48" lean-forward="true" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -438,15 +470,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/ifan/Scala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="156" column="26" lean-forward="true" selection-start-line="156" selection-start-column="26" selection-end-line="156" selection-end-column="26" />
+        <state relative-caret-position="437">
+          <caret line="161" lean-forward="true" selection-start-line="161" selection-end-line="161" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/ifan/Java.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="540">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
         </state>
       </provider>
     </entry>

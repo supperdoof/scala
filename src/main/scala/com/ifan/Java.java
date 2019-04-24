@@ -1,7 +1,5 @@
 package com.ifan;
 
-import java.util.Stack;
-
 public class Java {
     public static void main(String[] args) {
         int i = Scala.add(1,2);
@@ -33,57 +31,12 @@ public class Java {
         int[] array1 = {1,2,3,4,5};
         System.out.println(array1.length);
 
-        int x = 1534236469;
+        String s = "acd";
 
-        if(x > Integer.MAX_VALUE || x < Integer.MIN_VALUE)
+        for(int m=0; m<s.length(); m++)
         {
-            System.out.println(0);
-        }else
-        {
-            String str = String.valueOf(Math.abs(x));
-
-            Stack<Character> stack = new Stack();
-
-            for(int j=0; j<str.length(); j++)
-            {
-                stack.push(str.charAt(j));
-            }
-
-            if(stack.empty())
-            {
-                System.out.println(0);
-            }else {
-                while (stack.peek().equals('0'))
-                {
-                    stack.pop();
-                }
-
-                StringBuilder stringBuilder1 = new StringBuilder();
-
-                while (!stack.empty()) {
-                    stringBuilder1.append(stack.pop());
-                }
-                try {
-                    System.out.println(x / Math.abs(x) * Integer.parseInt(stringBuilder1.toString()));
-                }catch (Exception e){
-                    System.out.println(0);
-                }
-            }
-
+            s.charAt(m);
         }
 
-
-
-
-
-
-
-
-
     }
-
-
-
-
-
 }
