@@ -176,6 +176,55 @@ public class Java {
             System.out.println(linkedList.get(i4));
         }
 
+        //基于链表实现队列
+        Queue<Integer> q = new LinkedList();
+        // 2. Get the first element - return null if queue is empty.
+        System.out.println("The first element is: " + q.peek());
+        // 3. Push new element.
+        q.offer(5);
+        q.offer(13);
+        q.offer(8);
+        q.offer(6);
+        // 4. Pop an element.
+        q.poll();
+        // 5. Get the first element.
+        System.out.println("The first element is: " + q.peek());
+        // 7. Get the size of the queue.
+        System.out.println("The size is: " + q.size());
+
+        System.out.println("++++++++++++++++++++++++++++++");
+        int[] digits = {-3,-1,0,0,0,3,3};
+
+        Set<Integer> integerSet = new HashSet<Integer>();
+
+        for (int d : digits) {
+            integerSet.add(d);
+        }
+
+
+        Iterator<Integer> iterator = integerSet.iterator();
+        int[] result = new int[integerSet.size()];
+
+        int c = 0;
+        while (iterator.hasNext()) {
+            result[c++] = iterator.next().intValue();
+        }
+
+        Arrays.sort(result);
+
+        c = 0;
+        for (int dd : result) {
+            digits[c++] = dd;
+        }
+
+
+
+
+
+
+
+
+
 
 
 
